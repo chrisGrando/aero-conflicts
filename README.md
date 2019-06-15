@@ -1,36 +1,36 @@
 # Aero Conflicts
-Jogo em HTML5 feito para a disciplina de: Pesquisa e Ordenação de Dados; UFFS - Chapecó.
-Para jogar [clique aqui.](https://chrisgrando.github.io/aero-conflicts/)
+Jogo em HTML5 feito para a disciplina de: Pesquisa e Ordenação de Dados; UFFS - Chapecó.<br/>
+Para jogar acesse: https://chrisgrando.github.io/aero-conflicts/
 
 ### Créditos:
-* Jogo criado por:
+* Jogo criado por:<br/>
 Christian Grando
 
-* Sprites:
-opengameart.org
+* Sprites:<br/>
+opengameart.org<br/>
 Touhou Project
 
-* Backgrounds:
-artranked.com
-opengameart.org
+* Backgrounds:<br/>
+artranked.com<br/>
+opengameart.org<br/>
 www.kenney.nl
 
-* Efeitos Sonoros:
-freesound.org
+* Efeitos Sonoros:<br/>
+freesound.org<br/>
 Touhou 8: Imperishable Night
 
-* Músicas retiradas de:
-TH01 Highly Responsive to Prayers
-TH02 Story of Eastern Wonderland
-TH03 Phantasmagoria of Dim. Dream
-TH04 Lotus Land Story
+* Músicas retiradas de:<br/>
+TH01 Highly Responsive to Prayers<br/>
+TH02 Story of Eastern Wonderland<br/>
+TH03 Phantasmagoria of Dim. Dream<br/>
+TH04 Lotus Land Story<br/>
 (Todas compostas por ZUN)
 
-* Softwares Usados:
-Construct 2
-Paint.Net
+* Softwares Usados:<br/>
+Construct 2<br/>
+Paint.Net<br/>
 www.bearaudiotool.com
 
-* Inspirado em:
-Touhou Project
+* Inspirado em:<br/>
+Touhou Project<br/>
 Bullet Hell Monday
